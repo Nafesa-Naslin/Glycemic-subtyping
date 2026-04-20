@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local/raw data (do not commit unless you have permission)
+Shanghai_T2DM/
+Shanghai_T1DM/
+data/raw/
+data/**/raw/
+data/**/*.xlsx
+data/**/*.xls
+
+# Results tables (often contain clinical fields)
+results/**/*.csv

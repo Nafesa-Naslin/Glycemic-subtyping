@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it."
+title: "Glycemic subtyping from CGM features in Type 2 Diabetes"
+authors:
+  - family-names: "Naslin"
+    given-names: "Nafesa"
+date-released: 2026-02-04
+license: "MIT"
